@@ -336,3 +336,76 @@ Las líneas no deberían ser mezcladas o coordinarse en una manera que pueda com
 
 [Declaración de aplicabilidad (DDA) para seguridad de la información](https://www.idu.gov.co/Archivos_Portal/Transparencia/Informacion%20de%20interes/SIGI/Sistema%20de%20seguridad%20de%20la%20informacion/2017/09%20Septiembre/01%20FO-TI-27%20Formato%20Declaracion%20de%20Aplicabilidad%20%20V_1.0%20-%20Diligenciado%20Dic2015.pdf)
 
+## Controles de seguridad: Políticas y controles de acceso
+
+### Política de seguridad de la información y gestión de activos
+
+A5 Políticas de seguridad de la información
+A5.1 Directrices de gestión de la seguridad de la información
+A5.1.1 Políticas para la seguridad de la información
+A5.1.2 Revisión de las políticas para la seguridad de la información
+
+A6 Organización de la seguridad de la información
+A6.1 Organización interna
+A6.1.1 Roles y responsabilidades en seguridad de la información
+A6.1.2 Segregación de tareas
+A6.1.3 Contacto con las autoridades
+A6.1.4 Contacto con grupos de interés especial
+A6.1.5 Seguridad de la información en la gestión de proyectos
+A6.2 Los dispositivos móviles y el teletrabajo
+A6.2.1 Política de dispositivos móviles
+A6.2.2 Teletrabajo
+
+A7 Seguridad relativa a los recursos humanos
+A7.1 Antes del empleo
+A7.1.1 Investigación de antecedentes
+A7.1.2 Términos y condiciones del empleo
+A7.2 Durante el empleo
+A7.2.1 Responsabilidades de gestión
+A7.2.2 Concienciación, educación y capacitación en seguridad de la información
+A7.2.3 Proceso disciplinario
+A7.3 Finalización del empleo o cambio en el puesto de trabajo
+A7.3.1 Responsabilidades ante la finalización o cambio
+
+A8 Gestión de activos
+A8.1 Responsabilidad sobre los activos
+A8.1.1 Inventario de activos
+A8.1.2 Propiedad de los activos
+A8.1.3 Uso aceptable de los activos
+A8.1.4 Devolución de activos
+A8.2 Clasificación de la información
+A8.2.1 Clasificación de la información
+A8.2.2 Etiquetado de la información
+A8.2.3 Manipulado de la información
+A8.3 Manipulación de los soportes
+A8.3.1 Gestión de soportes extraíbles
+A8.3.2 Eliminación de soportes
+A8.3.3 Soportes físicos en tránsito
+
+### Controles de accesso
+
+A9 Control de acceso
+A9.1 Requisitos de negocio para el control de acceso
+A9.1.1 Política de control de acceso
+A9.1.2 Acceso a las redes y a los servicios de red
+A9.2 Gestión de acceso de usuario
+A9.2.1 Registro y baja de usuario
+A9.2.2 Provisión de acceso de usuario
+A9.2.3 Gestión de privilegios de acceso
+A9.2.4 Gestión de la información secreta de autenticación de los usuarios
+A9.2.5 Revisión de los derechos de acceso de usuario
+A9.2.6 Retirada o reasignación de los derechos de acceso
+A9.3 Responsabilidades del usuario
+A9.3.1 Uso de la información secreta de autenticación
+A9.4 Control de acceso a sistemas y aplicaciones
+A9.4.1 Restricción del acceso a la información
+A9.4.2 Procedimientos seguros de inicio de sesión
+A9.4.3 Sistema de gestión de contraseñas
+A9.4.4 Uso de utilidades con privilegios del sistema
+A9.4.5 Control de acceso al código fuente de los programas
+
+A10 Criptografía
+A10.1 Controles criptográficos
+A10.1.1 Política de uso de los controles criptográficos
+A10.1.2 Gestión de claves
+
