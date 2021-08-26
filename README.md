@@ -340,12 +340,12 @@ Las líneas no deberían ser mezcladas o coordinarse en una manera que pueda com
 
 ### Política de seguridad de la información y gestión de activos
 
-A5 Políticas de seguridad de la información
+**A5 Políticas de seguridad de la información**
 A5.1 Directrices de gestión de la seguridad de la información
 A5.1.1 Políticas para la seguridad de la información
 A5.1.2 Revisión de las políticas para la seguridad de la información
 
-A6 Organización de la seguridad de la información
+**A6 Organización de la seguridad de la información**
 A6.1 Organización interna
 A6.1.1 Roles y responsabilidades en seguridad de la información
 A6.1.2 Segregación de tareas
@@ -356,7 +356,7 @@ A6.2 Los dispositivos móviles y el teletrabajo
 A6.2.1 Política de dispositivos móviles
 A6.2.2 Teletrabajo
 
-A7 Seguridad relativa a los recursos humanos
+**A7 Seguridad relativa a los recursos humanos**
 A7.1 Antes del empleo
 A7.1.1 Investigación de antecedentes
 A7.1.2 Términos y condiciones del empleo
@@ -367,7 +367,7 @@ A7.2.3 Proceso disciplinario
 A7.3 Finalización del empleo o cambio en el puesto de trabajo
 A7.3.1 Responsabilidades ante la finalización o cambio
 
-A8 Gestión de activos
+**A8 Gestión de activos**
 A8.1 Responsabilidad sobre los activos
 A8.1.1 Inventario de activos
 A8.1.2 Propiedad de los activos
@@ -384,7 +384,7 @@ A8.3.3 Soportes físicos en tránsito
 
 ### Controles de accesso
 
-A9 Control de acceso
+**A9 Control de acceso**
 A9.1 Requisitos de negocio para el control de acceso
 A9.1.1 Política de control de acceso
 A9.1.2 Acceso a las redes y a los servicios de red
@@ -404,8 +404,69 @@ A9.4.3 Sistema de gestión de contraseñas
 A9.4.4 Uso de utilidades con privilegios del sistema
 A9.4.5 Control de acceso al código fuente de los programas
 
-A10 Criptografía
+**A10 Criptografía**
 A10.1 Controles criptográficos
 A10.1.1 Política de uso de los controles criptográficos
 A10.1.2 Gestión de claves
+
+## Controles de seguridad: Operaciones y Comunicaciones
+
+### Seguridad física y del entorno, de las operaciones y las comunicaciones
+
+**A11 Seguridad física y del entorno**
+A11.1 Áreas seguras
+A11.1.1 Perímetro de seguridad física
+A11.1.2 Controles físicos de entrada
+A11.1.3 Seguridad de oficinas, despachos y recursos
+A11.1.4 Protección contra las amenazas externas y ambientales
+A11.1.5 El trabajo en áreas seguras
+A11.1.6 Áreas de carga y descarga
+A11.2 Seguridad de los equipos
+A11.2.1 Emplazamiento y protección de equipos
+A11.2.2 Instalaciones de suministro
+A11.2.3 Seguridad del cableado
+A11.2.4 Mantenimiento de los equipos
+A11.2.5 Retirada de materiales propiedad de la empresa
+A11.2.6 Seguridad de los equipos fuera de las instalaciones
+A11.2.7 Reutilización o eliminación segura de equipos
+A11.2.8 Equipo de usuario desatendido
+A11.2.9 Política de puesto de trabajo despejado y pantalla limpia
+
+### Seguridad de las operaciones
+
+**A12 Seguridad de las operaciones**
+A12.1 Procedimientos y responsabilidades operacionales
+A12.1.1 Documentación de procedimientos operacionales
+A12.1.2 Gestión de cambios
+A12.1.3 Gestión de capacidades
+A12.1.4 Separación de los recursos de desarrollo, prueba y operación
+A12.2 Protección contra el software malicioso (malware)
+A12.2.1 Controles contra el código malicioso
+A12.3 Copias de seguridad
+A12.3.1 Copias de seguridad de la información
+A12.4 Registros y supervisión
+A12.4.1 Registro de eventos
+A12.4.2 Protección de la información del registro
+A12.4.3 Registros de administración y operación
+A12.4.4 Sincronización del reloj
+A12.5 Control del software en explotación
+A12.5.1 Instalación del software en explotación
+A12.6 Gestión de la vulnerabilidad técnica
+A12.6.1 Gestión de las vulnerabilidades técnicas
+A12.6.2 Restricción en la instalación de software
+A12.7 Consideraciones sobre la auditoria de sistemas de información
+A12.7.1 Controles de auditoría de sistemas de información
+
+### Seguridad de las comunicaciones
+
+**A13 Seguridad de las comunicaciones**
+A13.1 Gestión de la seguridad de las redes
+A13.1.1 Controles de red
+A13.1.2 Seguridad de los servicios de red
+A13.1.3 Segregación en redes
+A13.2 Intercambio de información
+A13.2.1 Políticas y procedimientos de intercambio de información
+A13.2.2 Acuerdos de intercambio de información
+A13.2.3 Mensajería electrónica
+A13.2.4 Acuerdos de confidencialidad o no revelación
 
