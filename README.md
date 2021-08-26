@@ -170,3 +170,169 @@ Provee una herramienta esencial para la gestión de la seguridad, una lsita de l
 
 [Resumen del Anexo A - Norma ISO 27001:2013](https://advisera.com/27001academy/es/knowledgebase/resumen-del-anexo-a-de-la-norma-iso-270012013/)
 
+> La mejor manera de entender el Anexo A es pensar en él como una catálogo de controles de seguridad del que se pueden seleccionar - de los 114 controles que se señalan en el Anexo A - los que apliquen en su compañía.
+
+Dejan Kosutic
+
+## Gestión de riesgos
+
+### Clasificación de los activos de información
+
+Ciclo de la información:
+
+1. Proceso de negocio que está apalancado de procesos de **tecnologías de información**.
+2. Este proceso genera y procesa **datos**.
+3. Los datos se transforman en **información** que luego se transforma en **conocimiento**.
+4. El conocimiento crea **valor**
+5. Volvemos al punto 1.
+
+- Es importante que se considere toda la información relevante para la empresa, no sólo la información automatizada.
+
+- La información puede ser estructurada o desestructurada, formal o informal.
+
+Arquitectura de la información:
+
+Es la función de crear y actualizar de forma regular un modelo de información de la organización y definir los sistemas apropiados para optimizar el uso de esta información.
+
+- Diccionario corporativo de datos -> **Fundamental**
+- Esquema de clasificación de datos
+- Niveles de seguridad
+
+Esquema de clasificación de datos
+
+Se debe establecer un esquema de clasificación que aplique a toda la compañía, basado en que tan crítica y sensible es la información manejada.
+
+> Este proceso mejora la calidad de la toma de decisiones gerenciales asegurándose que se proporciona información confiable y segura.
+
+Inventario de activos de información
+
+La identificación del inventario de activos de información permite clasificar los activos a los que se les debe brindar mayor protección.
+
+Las actividades a realizar para obtener un inventario de activos son:
+
+- Definición
+- Revisión
+- Actualización
+- Publicación
+
+### Inventario de activos de información
+
+Hay que recordar que en todo momento se debe respetar la ** triada de seguridad de información**. Con confidencialidad, Disponibilidad e Integridad.
+
+Hay 4 opciones de confidencialidad:
+
+- Altamente confidencial -> Información disponible sólo para un proceso de la empresa y que en caso de ser conocida por terceros sin autorización puede conllevar un impacto negativo de índole legal, operativa, de péridad de imagen o económica.
+- Confidencial -> Información disponible para todos los procesos de la empresa y que en caso de ser conocida por terceros sin autorización puede conllevar un impacto negativo para los procesos de la misma.
+- Pública -> Información que puede ser entregada o publicada sin restricciones a cualquier persona dentro y fuera de la empresa, sin que esto implique daños a terceros ni a las actividades y procesos de la empresa.
+- No clasificada -> Activos de información que deben ser incluidos en el inventario y que aún no han sido clasificados. Deben ser tratados como activos ***ALTAMENTE CONFIDENCIAL***.
+
+Tienes que clasificar a los activos de acuerdo a la integridad.
+
+- ALTA -> Información cuya pérdida de exactitud y completitud puede conllevar un impacto negativo de índola legal o económica, retrasar sus funciones, o generar pérdidas de imagen *severas* de la empresa.
+- MEDIA -> Lo mismo de arriba pero nivel *moderado*.
+- BAJA -> Lo mismo de arriba pero no tiene un impacto significativo.
+- No clasificada -> Le das el criterio de ***ALTA***.
+
+También se clasifican los activos de acuerdo a la disponibilidad.
+
+- ALTA -> Lo mismo que en integridad.
+- MEDIA -> Lo mismo pero a nivel medio.
+- BAJA -> No tiene impacto significativo.
+- No clasificada -> Le das el criterio de ***ALTA***.
+
+### Laboratorio: construyendo una matriz de activos de información
+
+La norma ISO 27001 no tiene un estándar para la matriz, la creas de acuerdo a tus necesidades. Usaremos excel o google sheets para este laboratorio.
+
+### Finalizar la revisión de la matriz de activos de información
+
+Es una buena opción iniciar con la plantilla de Excel. Después puedes usar un software para que esto se más robusto.
+
+### Niveles de riesgo
+
+Tenemos que definir los niveles de riesgo y sus tratamientos.
+
+¿Qué es 'riesgo'? Es un evento o condidición incierta que, si se produce, tiene un efecto positivo o negativo en los objetivos de un proyecto. Definición de PMBOK Guide.
+
+El término riesgo suele utilizarse sólo en el caso de que exista, al menos, una posibilidad de consecuencia negativa. Definición de guía ISO 73:2009.
+
+Tipos de riesgos:
+
+- Ihnerente: Es el riesgo intrínseco de cada actividad, sin tener en cuenta los controles que de éste se hagan a su interior. Es propio del trabajo o proceso, y no puede ser eliminado.
+- Residual: Es aquel riesgo que subsiste, después de haber implementado controles. Nunca va a tener 0% de probabilidades de que suceda.
+
+Cómo calcular el nivel de riesgo, de acuerdo a la guía ISO 73:2009 -> `nivel de rieso = impacto * probabilidad`
+
+|Impacto       |Valor|
+|--------------|-----|
+|Catastrófico  |5    |
+|Mayor         |4    |
+|Crítica       |3    |
+|Menor         |2    |
+|Insignificante|1    |
+
+|Probabilidad|Valor|
+|------------|-----|
+|Constante   |5    |
+|Moderado    |4    |
+|Ocasional   |3    |
+|Posible     |2    |
+|Improbable  |1    |
+
+### Tratamiento de riesgo
+
+Al final debes de presentar en la documentación tu mapa de calor de forma inherente (sin control), y después tu mapa de color de forma residual (con los riesgos ya mejor controlados).
+
+Tratamiento del riesgo: Proceso de selección y puesta en aplicación de medidas para modificar el riesgo. El término "tratamiento de riesgos" se utiliza a veces para las propias medidas. El tratamiento del riesgo puede originar nuevos riesgos o modificar los riesgos existentes.
+
+- Mitigar -> Implementar controles ✅
+- Transferir -> Cederlo a un tercero (pólizas de seguro)
+- Aceptar -> No hacer nada ❗❌
+- Evitar -> Dejar de hacer la actividad ❌
+
+Dueño del riesgo: Persona o entidad que tiene la responsabilidad y autoridad para gestionar un riesgo.
+
+### Los controles
+
+Son medidas que modifican un riesgo. Estos incluyen cualquier proceso, política, dispositivo, práctica, u otras acciones que modifiquen un riesgo.
+
+Clasificación de controles
+
+- Preventivos: Anticipan eventos antes de que sucedan
+- Detectivos: Identifican los eventos en el momento en que se presentan
+- Correctivos: Aseguran que las acciones correctivas sean tomadas para revertir un evento no deseado.
+
+Tipos de controles
+
+- Manual: El uso de TI es nulo o bajo, siendo alta la participación del personal. ❌
+- Semiautomático: Inicialmente dependientes de un proceso automático, pero desarrollado manualmente en su parte final y clave. ⚠
+- Automático: La operación está basada en tecnologías de información (sistemas) ✅
+
+### Laboratorio: construyendo una matriz de riesgos
+
+> No seas alarmista pero tampoco seas muy laxo.
+
+[ISO 27001 completo](https://normaiso27001.es/)
+
+### Revisión de los controles y mapa de calor de la matriz de riesgos
+
+### Las tres líneas de defensa
+
+3LD
+
+1. La gestión operativa (El responsable del riesgo).
+2. Funciones de gestión de riesgos y cumplimiento.
+3. Auditoría interna.
+
+[Modelo de las Tres Líneas de Defensa. Permite mitigar de una forma integral los riesgos](https://www.auditool.org/blog/control-interno/3654-modelo-de-las-tres-lineas-de-defensa-permite-mitigar-de-una-forma-integral-los-riesgos)
+
+Las 3 líneas deberían existir de alguna forma en todas las organizaciones, **independientemente** de su tamaño o complejidad.
+
+Las líneas no deberían ser mezcladas o coordinarse en una manera que pueda comprometer su eficacia.
+
+### ISO 27001: declaración de aplicabilidad
+
+[Artículo en Platzi](https://platzi.com/clases/1889-iso/29972-iso-27001-declaracion-de-aplicabilidad/)
+
+[Declaración de aplicabilidad (DDA) para seguridad de la información](https://www.idu.gov.co/Archivos_Portal/Transparencia/Informacion%20de%20interes/SIGI/Sistema%20de%20seguridad%20de%20la%20informacion/2017/09%20Septiembre/01%20FO-TI-27%20Formato%20Declaracion%20de%20Aplicabilidad%20%20V_1.0%20-%20Diligenciado%20Dic2015.pdf)
+
