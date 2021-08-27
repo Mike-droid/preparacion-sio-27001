@@ -615,3 +615,18 @@ Cómo hacer reporte de no conformidades:
 
 ### Laboratorio: realizar el reporte de algunas no conformidades
 
+## Gestión de la continuidad del negocio
+
+### BCP, BIA, RTO y RPO
+
+BCP(Business Continuity Plan): Conjunto de procedimientos y estrategias definidos para asegurar la reanudación oportuna y ordenada de los procesos del negocio generando un impacto mínimo o nulo ante un evento de máxima afectación.
+
+BIA (Business Impact Analysis): Permite identificar con claridad los procesos misionales de cada organización y analizar el nivel de impacto con relación a la gestión del negocio.
+
+Factores claves:
+
+- RTO (Recovery Time Objective): Es el tiempo transcurrido entre una interrupción y la recuperación del servicio. Indica el tiempo disponible para recuperar sistemas y recursos interrumpidos.
+- RPO (Recovery Point Objective): Es el rango de tolerancia que la entidad puede tener sobre la pérdida de datos y el evento de desastre.
+
+### Laboratorio: construyendo un BCP para un solo proceso
+
