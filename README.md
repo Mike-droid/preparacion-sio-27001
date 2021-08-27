@@ -538,3 +538,80 @@ A18.2 Revisiones de la seguridad de la información
 A18.2.1 Revisión independiente de la seguridad de la información
 A18.2.2 Cumplimiento de las políticas y normas de seguridad
 A18.2.3 Comprobación del cumplimiento técnico
+
+## Auditoría
+
+### ¿Qué es auditoría?
+
+> Proceso sistemático, independiente, documentado, para obtener evidencia y evaluarla objetivamente, con el fin de determinar en qué grado se cumplen los criterios de la auditoría
+
+ISO 19011
+
+- Sistemático: *NO aleatorio*, las auditorías usualmente son una actividad planificada y programada.
+- Independiente: Los auditories son libres de seleccionar las áreas a auditar.
+- Documentado: El proceso de auditoría ha sido publicado como un proceso escrito.
+- Evidencia: Pruebas de lo indicado por el auditado.
+- Se cumplen: Ocurren realmente.
+- Evaluarla objetivamente: Comparar la evidencia con los criterios de auditoría, usando hechos antes que percepciones subjetivas, opiniones, sentimientos.
+- Criterios de auditoría: Los requisitos de la auditoría.
+
+Tipos de auditoría
+
+Primera parte -> Interna
+
+Segunda y tercera partes -> Externa
+
+### Términos de la auditoría
+
+- Evidencia -> Registros, declaraciones de hechos o cualquier otra información que son pertinentes para los criterios de auditoría y que son verificables.
+- Cliente -> Organización o persona que solicita una auditoría.
+- Auditor -> Persona que lleva a cabo una auditoría.
+- Auditado -> Organización que está siendo auditada.
+- Programa de Auditoría -> Conjunto de una o más auditorías planificadas para un periodo de tiempo determinado y dirigidas hacia un propósito específico.
+- Alcance: Extensión y límites de una auditoría, el alcance de la auditoría incluye generalmente una descripción de las ubicaciones, las unidades de la organización, las actividades y los procesos, así como el período de tiempo cubierto.
+- Conclusiones -> Resultado de una auditoría, tras considerar los objetivos de la auditoría y todos los hallazgos de la auditoría.
+- Hallazgos -> Resultados de la evaluación de la evidencia de la auditoría recopilada frente a los criterios de auditoría.
+
+### Fases de una auditoría
+
+- Conclusiones -> Resultado de una auditoría, tras considerar los objetivos de la auditoría y todos los hallazgos de la auditoría.
+- Hallazgos -> Resultados de la evaluación de la evidencia de la auditoría recopilada frente a los criterios de auditoría.
+
+### Fases de una auditoría
+
+1. Preparación de auditoría -> Preparar tus recursos y a las personas. Documentar todo.
+2. Plan de auditoría y Lista de verificación -> Definir el plan y fechas.
+3. Reunión de apertura -> Sentarte con la persona para darle el alcance y todos los detalles de la auditoría.
+4. Identificación de Riegos -> Matriz de riesgos.
+5. Ejecución (Trabajo de campo) -> Trabajar.
+6. Presentación de hallazgos -> Mostrar lo que has encontrado con pruebas.
+7. Emisión del informe borrador -> Documentación, pero como borrador.
+8. Solicitud de planes de acción -> Tener las acciones correctivas.
+9. Emisión de informe oficial -> Documentación oficial.
+10. Seguimiento de planes de acción -> Asegurarse de que se cumplen los trabajos.
+
+### Resultados de la auditoría
+
+- Conformidad ✅
+- Inconformidad ❌
+
+Incumplimientos más comunes
+
+- Documentación no encontrada.
+- Competencias de recurso humano no evaluada.
+- Controles implementados inadecuados.
+- No conformidades por auditorías internas sin cierre eficaz.
+- Acciones correctivas sin revisión de la dirección.
+- Deficiencia en metodología de análisis de riesgo.
+- Incumplimiento de procedimientos.
+
+> Sé duros con los procesos y suave con las personas.
+
+Cómo hacer reporte de no conformidades:
+
+- La evidencia -> Lista de hallazgos, respaldados con evidencias objetivas o atestiguadas por el auditado.
+- La referencia -> Al requisito de la norma y/o manual de calidad o procedimiento. Un requisito a la vez, el que más aplica.
+- La conclusión: Genérica, breve, precisa y aceptada por el auditado.
+
+### Laboratorio: realizar el reporte de algunas no conformidades
+
