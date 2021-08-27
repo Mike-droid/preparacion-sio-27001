@@ -470,3 +470,71 @@ A13.2.2 Acuerdos de intercambio de información
 A13.2.3 Mensajería electrónica
 A13.2.4 Acuerdos de confidencialidad o no revelación
 
+## Controles de seguridad: Sistemas de información
+
+### Requisitos de seguridad en sistemas de información
+
+**A14 Adquisición, desarrollo y mantenimiento de los sistemas de información**
+A14.1 Requisitos de seguridad en los sistemas de información
+A14.1.1 Análisis de requisitos y especificaciones de seguridad de la información
+A14.1.2 Asegurar los servicios de aplicaciones en redes públicas
+A14.1.3 Protección de las transacciones de servicios de aplicaciones
+A14.2 Seguridad en el desarrollo y en los procesos de soporte
+A14.2.1 Política de desarrollo seguro
+A14.2.2 Procedimiento de control de cambios en sistemas
+A14.2.3 Revisión técnica de las aplicaciones tras efectuar cambios en el sistema operativo
+A14.2.4 Restricciones a los cambios en los paquetes de software
+A14.2.5 Principios de ingeniería de sistemas seguros
+A14.2.6 Entorno de desarrollo seguro
+A14.2.7 Externalización del desarrollo de software
+A14.2.8 Pruebas funcionales de seguridad de sistemas
+A14.2.9 Pruebas de aceptación de sistemas
+A14.3 Datos de prueba
+A14.3.1 Protección de los datos de prueba
+
+### Laboratorio: aplicar una lista de verificación
+
+[Top 10 Mobile Risks - Final List 2016](https://owasp.org/www-project-mobile-top-10/2016-risks/)
+
+### Relación con proveedores
+
+**A15 Relación con proveedores**
+A15.1 Seguridad en las relaciones con proveedores
+A15.1.1 Política de seguridad de la información en las relaciones con los proveedores
+A15.1.2 Requisitos de seguridad en contratos con terceros
+A15.1.3 Cadena de suministro de tecnología de la información y de las comunicaciones
+A15.2 Gestión de la provisión de servicios del proveedor
+A15.2.1 Control y revisión de la provisión de servicios del proveedor
+A15.2.2 Gestión de cambios en la provisión del servicio del proveedor
+
+**A16 Gestión de incidentes de seguridad de la información**
+A16.1 Gestión de incidentes de seguridad de la información y mejoras
+A16.1.1 Responsabilidades y procedimientos
+A16.1.2 Notificación de los eventos de seguridad de la información
+A16.1.3 Notificación de puntos débiles de la seguridad
+A16.1.4 Evaluación y decisión sobre los eventos de seguridad de información
+A16.1.5 Respuesta a incidentes de seguridad de la información
+A16.1.6 Aprendizaje de los incidentes de seguridad de la información
+A16.1.7 Recopilación de evidencias
+
+### Cumplimiento
+
+**A17 Aspectos de seguridad de la información para la gestión de la continuidad de negocio**
+A17.1 Continuidad de la seguridad de la información
+A17.1.1 Planificación de la continuidad de la seguridad de la información
+A17.1.2 Implementar la continuidad de la seguridad de la información
+A17.1.3 Verificación, revisión y evaluación de la continuidad de la seguridad de la información
+A17.2 Redundancias
+A17.2.1 Disponibilidad de los recursos de tratamiento de la información
+
+**A18 Cumplimiento**
+A18.1 Cumplimiento de los requisitos legales y contractuales
+A18.1.1 Identificación de la legislación aplicable y de los requisitos contractuales
+A18.1.2 Derechos de Propiedad Intelectual (DPI)
+A18.1.3 Protección de los registros de la organización
+A18.1.4 Protección y privacidad de la información de carácter personal
+A18.1.5 Regulación de los controles criptográficos
+A18.2 Revisiones de la seguridad de la información
+A18.2.1 Revisión independiente de la seguridad de la información
+A18.2.2 Cumplimiento de las políticas y normas de seguridad
+A18.2.3 Comprobación del cumplimiento técnico
