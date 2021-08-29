@@ -217,7 +217,7 @@ Las actividades a realizar para obtener un inventario de activos son:
 
 ### Inventario de activos de información
 
-Hay que recordar que en todo momento se debe respetar la ** triada de seguridad de información**. Con confidencialidad, Disponibilidad e Integridad.
+Hay que recordar que en todo momento se debe respetar la **triada de seguridad de información**. Con confidencialidad, Disponibilidad e Integridad.
 
 Hay 4 opciones de confidencialidad:
 
@@ -258,26 +258,26 @@ El término riesgo suele utilizarse sólo en el caso de que exista, al menos, un
 
 Tipos de riesgos:
 
-- Ihnerente: Es el riesgo intrínseco de cada actividad, sin tener en cuenta los controles que de éste se hagan a su interior. Es propio del trabajo o proceso, y no puede ser eliminado.
+- Inherente: Es el riesgo intrínseco de cada actividad, sin tener en cuenta los controles que de éste se hagan a su interior. Es propio del trabajo o proceso, y no puede ser eliminado.
 - Residual: Es aquel riesgo que subsiste, después de haber implementado controles. Nunca va a tener 0% de probabilidades de que suceda.
 
 Cómo calcular el nivel de riesgo, de acuerdo a la guía ISO 73:2009 -> `nivel de rieso = impacto * probabilidad`
 
-|Impacto       |Valor|
-|--------------|-----|
-|Catastrófico  |5    |
-|Mayor         |4    |
-|Crítica       |3    |
-|Menor         |2    |
-|Insignificante|1    |
+| Impacto        | Valor |
+| -------------- | ----- |
+| Catastrófico   | 5     |
+| Mayor          | 4     |
+| Crítica        | 3     |
+| Menor          | 2     |
+| Insignificante | 1     |
 
-|Probabilidad|Valor|
-|------------|-----|
-|Constante   |5    |
-|Moderado    |4    |
-|Ocasional   |3    |
-|Posible     |2    |
-|Improbable  |1    |
+| Probabilidad | Valor |
+| ------------ | ----- |
+| Constante    | 5     |
+| Moderado     | 4     |
+| Ocasional    | 3     |
+| Posible      | 2     |
+| Improbable   | 1     |
 
 ### Tratamiento de riesgo
 
@@ -454,7 +454,7 @@ A12.5.1 Instalación del software en explotación
 A12.6 Gestión de la vulnerabilidad técnica
 A12.6.1 Gestión de las vulnerabilidades técnicas
 A12.6.2 Restricción en la instalación de software
-A12.7 Consideraciones sobre la auditoria de sistemas de información
+A12.7 Consideraciones sobre la auditoría de sistemas de información
 A12.7.1 Controles de auditoría de sistemas de información
 
 ### Seguridad de las comunicaciones
@@ -574,11 +574,6 @@ Segunda y tercera partes -> Externa
 
 ### Fases de una auditoría
 
-- Conclusiones -> Resultado de una auditoría, tras considerar los objetivos de la auditoría y todos los hallazgos de la auditoría.
-- Hallazgos -> Resultados de la evaluación de la evidencia de la auditoría recopilada frente a los criterios de auditoría.
-
-### Fases de una auditoría
-
 1. Preparación de auditoría -> Preparar tus recursos y a las personas. Documentar todo.
 2. Plan de auditoría y Lista de verificación -> Definir el plan y fechas.
 3. Reunión de apertura -> Sentarte con la persona para darle el alcance y todos los detalles de la auditoría.
@@ -630,3 +625,10 @@ Factores claves:
 
 ### Laboratorio: construyendo un BCP para un solo proceso
 
+## Cierre del curso
+
+### Simulacro del examen de certificación para Auditor Interno ISO 27001
+
+[Ir al simulacro de examen](https://forms.gle/93sJxnqHHicszqTe6)
+
+[CertiProf - Certified ISO/IEC 27001 Foundation - I27001F](https://certiprof.com/pages/certified-iso-iec-27001-foundation)
